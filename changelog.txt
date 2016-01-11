@@ -1,0 +1,75 @@
+===================================================================
+v 1.3.1 - 23 July 2015
+-------------------------------------------------------------------
+NEW    - *** INSERT HERE ***
+UPDATE - Mail sending script is now easier to read and customise
+UPDATE - Better handling of phone numbers in mail sending script
+FIX    - Variant bug that prevented editing form field placeholders
+
+Files affected:
+-------------------------------------------------------------------
+ADDED - /mail/lib/mail_sender.php
+/mail/mail.php
+/docs/index.html
+/variant/js/init.js
+/variant/builder.html
+
+===================================================================
+
+
+===================================================================
+v 1.3.0 - 28 May 2015
+-------------------------------------------------------------------
+NEW - Totally overhauled smooth scrolling and parallax scripts
+NEW - Easily redirect your form to a confirmation page after submit
+NEW - Capture referrer from URL "?ref=" parameter automatically
+NEW - Forms now reset to empty after successful submission
+NEW - New buttons in Variant for editing images, sliders and more
+FIX - Variant bug fixes
+
+
+Files affected:
+-------------------------------------------------------------------
+-    variant/
+-    css/theme.css and colour scheme .css files
+-    css/less/theme.less and colour scheme .less files
+-    scripts/scripts.js
+-    Launchkit Docs/index.html
+-    All html pages updated with new form structure and parallax.js
+     (data-success and data-error attributes on form to populate
+      form success and error messages)
+
+===================================================================
+
+
+===================================================================
+v 1.2.0 - 19 February 2015
+-------------------------------------------------------------------
+NEW - New Tabbed Content blocks
+NEW - App Store Logo section
+NEW - 2 new CTA blocks
+
+
+Files affected:
+-------------------------------------------------------------------
+-    variant/*
+-    css/theme.css and colour scheme .css files
+-    css/less/theme.less and colour scheme .less files
+
+===================================================================
+
+
+===================================================================
+v 1.1.0 - 5 February 2015
+-------------------------------------------------------------------
+NEW - Plain fullwidth map element
+NEW - Simple message enquiry form element
+
+
+Files affected:
+-------------------------------------------------------------------
+-    variant/*
+-    css/theme.css and colour scheme .css files
+-    css/less/theme.less and colour scheme .less files
+
+===================================================================
